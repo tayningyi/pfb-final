@@ -99,6 +99,8 @@ print(dict_nation.get("singapore")) # get() method
 
 # -- practial example of dictionary -- #
 
+# comment by mr andy oh
+
 # create an empty dict to store values
 empty_dict = {}
 
